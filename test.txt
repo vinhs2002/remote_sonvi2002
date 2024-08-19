@@ -1,3 +1,7 @@
 update content
+<<<<<<< HEAD
 
 update from nhanh3
+=======
+update from nhanh2
+>>>>>>> nhanh1
