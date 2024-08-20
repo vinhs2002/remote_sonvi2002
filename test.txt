@@ -4,7 +4,7 @@ update from nhanh3 - update 4 from github
 
 update from nhanh2 - update 5 -from github
 
-update from github (main) - update 6 - from github
+update from github (main) - update 6 - from github - update from github 11
 
 update from local (origin) - update 7 from local - update from github 10
 
