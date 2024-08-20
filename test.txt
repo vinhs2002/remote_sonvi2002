@@ -8,4 +8,4 @@ update from github (main) - update 6 - from github
 
 update from local (origin) - update 7 from local
 
-update from origin 2 (local) - update 8 from local
+update from origin 2 (local) - update 8 from local - update from github 9
